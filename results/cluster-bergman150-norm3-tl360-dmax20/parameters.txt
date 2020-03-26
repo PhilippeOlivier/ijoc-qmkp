@@ -1,0 +1,4 @@
+dataset=bergman150
+norm=3
+timelimit=360
+d_max=20
